@@ -399,6 +399,7 @@ FEATURES ↓
     padding: 20px;
     border: 1px solid #e5e7eb;
     border-radius: 500px;
+    flex-shrink: 0;
 }
 
 .feature__img {
