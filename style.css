@@ -380,7 +380,6 @@ FEATURES ↓
 
 .features {
     display: flex;
-    flex-direction:column;
     flex-wrap: wrap;
     margin-top: 40px;
 }
